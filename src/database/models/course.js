@@ -8,6 +8,9 @@ module.exports = (sequelize, DataTypes) => {
       Course.belongsTo(models.Category, {
         foreignKey: 'category_id'
       });
+      Course.belongsTo(models.Person, {
+        foreignKey: 'category_id'
+      });
     }
   }
   Course.init({
