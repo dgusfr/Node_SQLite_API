@@ -41,7 +41,7 @@ API desenvolvida para gerenciar informações relacionadas a pessoas, cursos e m
 
 
 <div align="center">
-  <img src="images/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="images/entities.png" alt="Imagem do Projeto" width="900">
 </div>
 
 
