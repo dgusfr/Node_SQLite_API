@@ -20,9 +20,6 @@ Uma API para gerenciar cursos, pessoas e matrículas, utilizando Node.js, Sequel
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/node.png" alt="Node.js Logo" width="100"/>
   </div>
-  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/sqlite.png" alt="SQLite Logo" width="100"/>
-  </div>
 </div>
 
 ## Status
