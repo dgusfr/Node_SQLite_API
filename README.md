@@ -37,6 +37,8 @@ API desenvolvida para gerenciar informações relacionadas a pessoas, cursos e m
 - Registrar e gerenciar matrículas de pessoas em cursos.
 - Validação de dados e estrutura modularizada com o padrão MVC.
 
+## Estrutura
+
 ## Rotas da API
 
 A API está organizada com rotas RESTful, onde cada recurso tem suas rotas de manipulação de dados. As rotas são acessíveis via HTTP (GET, POST, PUT, DELETE).
