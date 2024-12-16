@@ -8,6 +8,9 @@ module.exports = (sequelize, DataTypes) => {
       Registration.belongsTo(models.Person, {
         foreignKey: 'student_id'
       });
+      Registration.belongsTo(models.Course, {
+        foreignKey: 'course_id'
+      });
     }
   }
   Registration.init({
