@@ -11,6 +11,9 @@ module.exports = (sequelize, DataTypes) => {
       Course.belongsTo(models.Person, {
         foreignKey: 'instructor_id'
       });
+      Course.belongsTo(models.Registration, {
+        foreignKey: 'course_id'
+      });
     }
   }
   Course.init({
