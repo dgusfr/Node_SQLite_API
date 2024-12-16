@@ -40,14 +40,6 @@ API desenvolvida para gerenciar informações relacionadas a pessoas, cursos e m
 - Registrar e gerenciar matrículas de pessoas em cursos.
 - Validação de dados e estrutura modularizada com o padrão MVC.
 
-## Documentação
-
-- Estrutura baseada em:
-  - Tabelas `People`, `Courses`, `Registrations`.
-  - Associações: One-to-Many e Many-to-Many.
-- Padrão de rotas RESTful.
-- Ferramentas:
-  - Sequelize CLI para migrations, seeders e manipulação do banco de dados.
 
 ## Autor
 
